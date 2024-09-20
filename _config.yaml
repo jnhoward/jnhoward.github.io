@@ -3,3 +3,5 @@ title: Title
 
 plugins:
   - jekyll-include-cache
+
+layout: splash
