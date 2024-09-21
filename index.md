@@ -16,7 +16,7 @@ excerpt: "Website is currently under construction. Check back later."
 feature_row:
   - image_path: /assets/splash/Research.png
     title: "Research"
-    #excerpt: "Click below to learn more about my research."
+    excerpt: "Click below to learn more about my research in theoretical particle physics and machine learning."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -28,7 +28,7 @@ feature_row:
     #btn_class: "btn--primary"
   - image_path: /assets/splash/EDI_Outreach.png
     title: "EDI / Outreach"
-    #excerpt: "Click below to learn more about my outreach and Equity Diversity and Inclusion (EDI) work."
+    excerpt: "Click below to learn more about my outreach and Equity Diversity and Inclusion (EDI) work."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
