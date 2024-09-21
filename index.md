@@ -6,25 +6,29 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/splash/test_splash.jpeg
   actions:
-    - label: "About Me"
+    - label: "About"
+      url: "#test-link"
+    - label: "Publications"
+      url: "#test-link"
+    - label: "CV"
       url: "#test-link"
 excerpt: "Website is currently under construction. Check back later."
 feature_row:
   - image_path: /assets/splash/Research.png
-    #title: "Research"
-    excerpt: "Click below to learn more about my research."
+    title: "Research"
+    #excerpt: "Click below to learn more about my research."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/splash/CV.png
-    #title: "CV"
-    excerpt: "Click below for my CV."
+    title: "CV"
+    #excerpt: "Click below for my CV."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/splash/EDI_Outreach.png
-    #title: "EDI / Outreach"
-    excerpt: "Click below to learn more about my outreach and Equity Diversity and Inclusion (EDI) work."
+    title: "EDI / Outreach"
+    #excerpt: "Click below to learn more about my outreach and Equity Diversity and Inclusion (EDI) work."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
