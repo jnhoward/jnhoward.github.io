@@ -5,7 +5,7 @@ permalink: /splash-page/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/splash/test_splash.jpg
+  overlay_image: /assets/splash/test_splash.jpeg
   actions:
     - label: "Download"
       url: "#test-link"
