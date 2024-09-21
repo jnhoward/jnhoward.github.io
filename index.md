@@ -10,31 +10,32 @@ header:
       url: "#test-link"
 excerpt: "Website is currently under construction. Check back later."
 feature_row:
-  - image_path: /assets/splash/placeholder.jpeg
-    title: "Placeholder 1"
-    excerpt: "Sample text 1 with **markdown** formatting."
+  - image_path: /assets/splash/Research.png
+    #title: "Research"
+    #excerpt: "Sample text 1 with **markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/splash/placeholder.jpeg
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/splash/CV.png
+    #title: "CV"
+    #excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/splash/placeholder.jpeg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/splash/EDI_Outreach.png
+    #title: "EDI / Outreach"
+    #excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row_left:
-  - image_path: /assets/splash/test_splash.jpeg
-    title: "Left aligned placeholder 1"
-    excerpt: "Left-aligned image centered with"
+  - image_path: /assets/images/bio-photo.jpg
+    title: "About Me"
+    excerpt: "TBD"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
-{% include feature_row %}
 {% include feature_row id="feature_row_left" type="left" %}
+{% include feature_row %}
+
