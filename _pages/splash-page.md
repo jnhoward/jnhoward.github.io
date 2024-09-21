@@ -1,3 +1,4 @@
+---
 title: "Splash Page"
 layout: splash
 permalink: /splash-page/
@@ -9,3 +10,4 @@ header:
     - label: "Download"
       url: "#test-link"
 excerpt: "TBD"
+---
