@@ -11,20 +11,20 @@ header:
 excerpt: "Website is currently under construction. Check back later."
 feature_row:
   - image_path: /assets/splash/Research.png
-    #title: "Research"
-    #excerpt: "Sample text 1 with **markdown** formatting."
+    title: "Research"
+    excerpt: "Sample text 1 with **markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/splash/CV.png
-    #title: "CV"
-    #excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "CV"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/splash/EDI_Outreach.png
-    #title: "EDI / Outreach"
-    #excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "EDI / Outreach"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
