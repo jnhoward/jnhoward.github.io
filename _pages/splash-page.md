@@ -11,19 +11,19 @@ header:
       url: "#test-link"
 excerpt: "TBD"
 feature_row:
-  - image_path: /assets/splash/placeholder.jpeg
+  - image_path: /assets/splash/placeholder100x100.jpeg
     title: "Placeholder 1"
     excerpt: "Sample text 1 with **markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/splash/placeholder.jpeg
+  - image_path: /assets/splash/placeholder100x100.jpeg
     title: "Placeholder 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--secondar"
-  - image_path: /assets/splash/placeholder.jpeg
+  - image_path: /assets/splash/placeholder100x100.jpeg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
