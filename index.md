@@ -29,7 +29,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row_left:
-  - image_path: /assets/images/bio-photo.jpg
+  - image_path: /assets/images/bio-photo.jpeg
     title: "About Me"
     excerpt: "TBD"
     url: "#test-link"
