@@ -20,12 +20,12 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-#  - image_path: /assets/splash/CV.png
-#    title: "CV"
-#    excerpt: "Click below for my CV."
-#    url: "#test-link"
-#    btn_label: "Read More"
-#    btn_class: "btn--primary"
+  - image_path: /assets/splash/CV.png
+    title: "CV"
+    #excerpt: "Click below for my CV."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/splash/EDI_Outreach.png
     title: "EDI / Outreach"
     #excerpt: "Click below to learn more about my outreach and Equity Diversity and Inclusion (EDI) work."
