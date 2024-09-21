@@ -9,9 +9,9 @@ header:
   actions:
     - label: "About Me"
       url: "#test-link"
-excerpt: "TBD"
+excerpt: "Website is currently under construction. Check back later."
 feature_row:
-  - image_path: /assets/splash/placeholder100x100.jpeg
+  - image_path: /assets/splash/placeholder.jpeg
     title: "Placeholder 1"
     excerpt: "Sample text 1 with **markdown** formatting."
     url: "#test-link"
@@ -23,7 +23,7 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/splash/placeholder100x100.jpeg
+  - image_path: /assets/splash/placeholder.jpeg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
