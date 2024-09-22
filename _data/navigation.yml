@@ -11,3 +11,7 @@ main:
     url: /publications/
   - title: "CV"
     url: /cv/
+  - title: "Research"
+    url: /research/
+  - title: "EDI/Outreach"
+    url: /edi-outreach/
