@@ -9,9 +9,9 @@ header:
     - label: "About"
       url: "#test-link"
     - label: "Publications"
-      url: "#test-link"
+      url: "/publications/"
     - label: "CV"
-      url: "#test-link"
+      url: "/cv/"
 excerpt: "Website is currently under construction. Check back later."
 feature_row:
   - image_path: /assets/splash/Research.png
