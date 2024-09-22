@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/splash/test_splash.jpeg
   actions:
     - label: "About"
-      url: "#test-link"
+      url: "#about-me"
     - label: "Publications"
       url: "/publications/"
     - label: "CV"
