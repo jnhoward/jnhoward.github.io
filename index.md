@@ -36,10 +36,11 @@ feature_row_left:
   - image_path: /assets/images/bio-photo.jpeg
     title: "About Me"
     excerpt: "TBD"
-    #url: "#test-link"
+    #url: "#about-me"
     #btn_label: "Read More"
     #btn_class: "btn--primary"
 ---
 {% include feature_row %}
 {% include feature_row id="feature_row_left" type="left" %}
+{: #about-me}
 
