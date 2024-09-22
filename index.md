@@ -6,8 +6,8 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/splash/test_splash.jpeg
   actions:
-    - label: "About"
-      url: "#about-me"
+    - label: "Contact"
+      url: "/contact/"
     - label: "Publications"
       url: "/publications/"
     - label: "CV"
@@ -36,11 +36,11 @@ feature_row_left:
   - image_path: /assets/images/bio-photo.jpeg
     title: "About Me"
     excerpt: "TBD"
-    #url: "#about-me"
+    #url: "#test-link"
     #btn_label: "Read More"
     #btn_class: "btn--primary"
 ---
-{% include feature_row %}
 {% include feature_row id="feature_row_left" type="left" %}
-{: #about-me}
+{% include feature_row %}
+
 
