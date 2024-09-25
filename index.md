@@ -20,7 +20,7 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/splash/placeholder.jpeg
+  - image_path: /assets/splash/CafeKITP_PictureCropped.png
     title: ""
     #excerpt: ""
     #url: "#test-link"
