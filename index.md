@@ -12,7 +12,7 @@ header:
       url: "/publications/"
     - label: "CV"
       url: "/cv/"
-excerpt: "Website is currently under construction. Check back later."
+excerpt: "Postdoctoral Scholar, Kavli Institute for Theoretical Physics"
 feature_row:
   - image_path: /assets/splash/Research.png
     title: "Research"
