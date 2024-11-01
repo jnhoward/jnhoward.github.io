@@ -47,7 +47,7 @@ My research focuses on exploring the intersection of theoretical particle physic
 [PCAST](https://www.whitehouse.gov/wp-content/uploads/2024/04/AI-Report_Upload_29APRIL2024_SEND-2.pdf). Moreover, historical efforts at the interface of machine learning and physics culminated in the recent [2024 Nobel Prize in Physics](https://www.nobelprize.org/prizes/physics/2024/summary/), underscoring machine learning’s growing significance across scientific fields. \ \ 
 
 
-My research interests thus far have taken me on a tour around the UCs. I received my PhD from UC Irvine in 2022 under the co-supervision of Tim Tait and Daniel Whiteson. Before that I was an undergraduate student at UC Davis, where I worked with John Conway on machine learning applications in the CMS experiment. And my first research experience was working with Daniel Cebra and Manuel Calderón de la Barca Sanchez who study relativistic heavy ion physics at RHIC and CMS. 
+My research interests thus far have taken me on a tour around the UCs. I received my PhD from UC Irvine in 2022 under the co-supervision of Tim Tait and Daniel Whiteson. Before that I was an undergraduate student at UC Davis, where I worked with John Conway on machine learning applications in the CMS experiment. And my first research experience was working with Daniel Cebra and Manuel Calderón de la Barca Sanchez who study relativistic heavy ion physics at STAR and CMS. 
 "
     #url: "#test-link"
     #btn_label: "Read More"
