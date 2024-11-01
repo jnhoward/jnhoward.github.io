@@ -3,4 +3,4 @@ permalink: /cv/
 title: "CV"
 ---
 
-A PDF version of my CV can be found [here](). Last updated September 2024. 
+A PDF version of my CV can be found [here](). Last updated October 2024. 
