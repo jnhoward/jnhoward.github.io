@@ -28,7 +28,7 @@ feature_row:
     #btn_class: "btn--primary"
   - image_path: /assets/splash/EDI_Outreach.png
     title: "EDI / Outreach"
-    excerpt: "Learn more about my outreach and Equity Diversity and Inclusion (EDI) work."
+    excerpt: "Learn more about my outreach and Equity, Diversity, and Inclusion (EDI) work."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
