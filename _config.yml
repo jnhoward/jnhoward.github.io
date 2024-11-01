@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Jessica N. Howard"
   avatar : "/assets/images/bio-photo.jpeg"
-  bio    : "Website is currently under construction. Check back later."
+  bio    : "Postdoctoral Scholar, Kavli Institute for Theoretical Physics"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
