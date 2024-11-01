@@ -36,7 +36,7 @@ feature_row_left:
   - image_path: /assets/images/bio-photo.jpeg
     title: "About Me"
     excerpt: "
-Pronouns: She/her/hers \ \
+*Pronouns: She/her/hers* \ \
 
 
 I am currently a postdoctoral fellow at the Kavli Institute of Theoretical Physics located on UC Santa Barbara’s campus. \ \ 
