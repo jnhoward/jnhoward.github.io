@@ -13,4 +13,4 @@ I am also passionate about furthering Equity, Diversity, and Inclusion (EDI) in 
 
 For a complete list of my EDI and Outreach activities, see [my CV](/cv/).
 
-[1] *Rising Stargirls: Benefits of a Creative Arts-Based Approach to Astronomy Education for Middle-School Girls from Underrepresented Groups*. M. Silverman, A. L. Shields, J. N. Howard, V. Venkatesan, K. Whitfield, **Astronomy Education Journal**, 4(1), 2024. [https://doi.org/10.32374/2024.4.1.089ra](https://doi.org/10.32374/2024.4.1.089ra)
+[1] *Rising Stargirls: Benefits of a Creative Arts-Based Approach to Astronomy Education for Middle-School Girls from Underrepresented Groups*. M. Silverman, A. L. Shields, J. N. Howard, V. Venkatesan, K. Whitfield, **Astronomy Education Journal**, 4(1), 2024. [https://doi.org/10.32374/2024.4.1.089ra](https://doi.org/10.32374/2024.4.1.089ra).
