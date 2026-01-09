@@ -39,7 +39,7 @@ feature_row_left:
 *Pronouns: She/her/hers* \ \
 
 
-I am currently a postdoctoral fellow at the Kavli Institute of Theoretical Physics located on UC Santa Barbara’s campus. \ \ 
+I am currently a Chancellor's Postdoctoral Fellow jointly affiliated with the University of California, Santa Barbara Physics Department and the Kavli Institute for Theoretical Physics. \ \ 
 
 
 My research focuses on exploring the intersection of theoretical particle physics, machine learning, and mathematics. Connections between these disciplines have the potential to advance our understanding of the fundamental universe by allowing us to more efficiently search for beyond the standard model particles and improve the way we do theoretical calculations. These connections also have the potential to advance our understanding of neural networks, making machine learning methods more reliable and interpretable. Goals which have been highlighted in recent funding calls by the [NSF](https://nsf-gov-resources.nsf.gov/2023-08/Artificial_Intelligence_Factsheet_508c.pdf),
